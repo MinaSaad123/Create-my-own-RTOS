@@ -1,0 +1,5 @@
+MyRTOS_FIFO.c:17:17:FIFO_buf_init	24	static
+MyRTOS_FIFO.c:36:17:FIFO_buf_enqueue	16	static
+MyRTOS_FIFO.c:64:17:FIFO_buf_dequeue	16	static
+MyRTOS_FIFO.c:89:17:FIFO_buf_is_full	16	static
+MyRTOS_FIFO.c:100:17:FIFO_Clean_Queue	16	static

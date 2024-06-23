@@ -1,0 +1,11 @@
+Stm32f103c6_GPIO_Driver.c:17:6:MCAL_GPIO_Reset_Output_Particular	16	static
+Stm32f103c6_GPIO_Driver.c:23:6:MCAL_GPIO_Set_Output_Particular	16	static
+Stm32f103c6_GPIO_Driver.c:29:9:Get_Pin_Bit_Position	16	static
+Stm32f103c6_GPIO_Driver.c:80:6:MCAL_GPIO_INIT	32	static
+Stm32f103c6_GPIO_Driver.c:136:6:MCAL_GPIO_DEINIT	16	static
+Stm32f103c6_GPIO_Driver.c:173:10:MCAL_GPIO_ReadPort	24	static
+Stm32f103c6_GPIO_Driver.c:187:9:MCAL_GPIO_ReadPin	16	static
+Stm32f103c6_GPIO_Driver.c:207:6:MCAL_GPIO_WritePort	16	static
+Stm32f103c6_GPIO_Driver.c:221:7:MCAL_GPIO_WritePin	16	static
+Stm32f103c6_GPIO_Driver.c:247:6:MCAL_GPIO_TogglePin	16	static
+Stm32f103c6_GPIO_Driver.c:260:10:MCAL_GPIO_lockPin	24	static
